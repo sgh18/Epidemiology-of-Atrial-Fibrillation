@@ -1,0 +1,20 @@
+ICD10	description
+I05	Rheumatic mitral valve diseases
+I05.0	Mitral stenosis
+I05.1	Rheumatic mitral insufficiency
+I05.2	Mitral stenosis with insufficiency
+I05.8	Other mitral valve diseases
+I05.9	Mitral valve disease, unspecified
+I06	Rheumatic aortic valve diseases
+I06.0	Rheumatic aortic stenosis
+I06.1	Rheumatic aortic insufficiency
+I06.2	Rheumatic aortic stenosis with insufficiency
+I06.8	Other rheumatic aortic valve diseases
+I06.9	Rheumatic aortic valve disease, unspecified
+I09	Other rheumatic heart diseases
+I09.0	Rheumatic myocarditis
+I09.1	Rheumatic diseases of endocardium, valve 
+I09.2	Chronic rheumatic pericarditis
+I09.8	Other specified rheumatic heart diseases
+I09.9	Rheumatic heart disease, unspecified
+I09.9	 Rheumatic heart disease, unspecified
